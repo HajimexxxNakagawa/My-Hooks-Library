@@ -1,3 +1,13 @@
+## This Next.js project is compatible with ...
+
+[x]TypeScript
+[x]CSS Modules
+[x]Prettier & ESLint
+[x]lint-staged & husky
+[x]Storybook
+[]PWA
+[]State Management
+
 ## Command
 
 ```
