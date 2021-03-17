@@ -2,6 +2,7 @@ import * as React from 'react'
 import { NextPage } from 'next'
 import Head from 'next/head'
 import Counter from '../components/Counter'
+import MousePosition from '../components/MousePosition'
 import Toggle from '../components/Toggle'
 
 const Home: NextPage = () => {
@@ -14,6 +15,7 @@ const Home: NextPage = () => {
 
       <main>
         <Counter />
+        <MousePosition />
         <Toggle />
       </main>
     </div>
